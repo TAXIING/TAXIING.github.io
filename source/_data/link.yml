@@ -1,0 +1,75 @@
+- class_name: 青柚官方
+  class_desc: 青柚官方网站
+  link_list:
+    - name: 青柚官网
+      link: https://qingyou.ren
+      avatar: /img/博客友链头像/青柚.png
+      descr: 用热爱创造无限可能
+    - name: 南邮镜像站
+      link: mirrors.njupt.edu.cn
+      avatar: /img/博客友链头像/镜像站.jpg
+      descr:  南邮开源软件镜像站
+
+- class_name: 青柚成员
+  class_desc: 青柚成员们的个人博客
+  link_list:
+    - name: Lakphy
+      link: https://lakphy.me
+      avatar: https://lakphy.me/avatar.webp
+      descr: Front-End Engineer
+    - avatar: https://sun482.github.io/images/apple-touch-icon-next.png
+      name: 朱晓峰
+      descr: 一只生之无趣死之乏味的丧家之犬
+      link: https://shaffer.cn
+    - avatar: /img/博客友链头像/黄兴源.png
+      name: 嘉心糖
+      descr: 社畜中orz...
+      link: https://uzihuhuhu.github.io/
+    - avatar: /img/博客友链头像/黄艺玲.png
+      name: 一零
+      descr: 小镇做题家
+      link: https://yiling.xyz/
+    - avatar: /img/博客友链头像/柳黎轲.jpg
+      name: 柳黎轲
+      descr: 头发保养大师
+      link: https://sun482.github.io/
+    - avatar: https://cfy73.github.io/img/%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87.jpg
+      name: 程凡恺
+      descr: 翻过这座山，他们就会听到你的故事
+      link: https://cfy73.github.io/
+    - name: 韦庆斌
+      link: https://lenjon.top
+      avatar: /img/博客友链头像/韦庆斌.jfif
+      descr: undefined
+    - name: 于思远
+      link: kawhicurry.github.io
+      avatar: /img/博客友链头像/于思远.jpg
+      descr: 人帅心善手巧嘴甜的运维大哥哥
+    - name: 央央是甜妹
+      link: https://wanyangworld.top
+      avatar: https://wanyangworld.top/img/avatar.jpg
+      descr: 宛在水中央
+    - avatar: /img/博客友链头像/李正楠.png
+      name: 李正楠
+      descr: 人生路漫漫 白鹭常相伴
+      link: https://mxte.cc
+    - avatar: /img/博客友链头像/朱文灏.jfif
+      name: 朱文灏
+      descr: 干啥啥不行，摸鱼第一名
+      link: https://kuroshima.top
+    - avatar: /img/博客友链头像/顾文韬.jpg
+      name: 顾文韬
+      descr: 写后端的大哥哥
+      link: https://gwtt.github.io/
+    - avatar: /img/博客友链头像/夏昊南.png
+      name: 夏昊南
+      descr: 纯良嘉心糖
+      link: fengye404.top
+
+- class_name: 我滴二次元朋友
+  class_desc: 异世界友人
+  link_list:
+    - name: Tan
+      link: https://tannnn900.github.io
+      avatar: https://tannnn900.github.io/img/%E5%A4%B4%E5%83%8F.jpg
+      descr: 超高校级的咸鱼☆
